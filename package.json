@@ -6,11 +6,11 @@
     "keywords": [
         "cartodb"
     ],
-    "url": "https://github.com/CartoDB/Windshaft",
+    "url": "https://github.com/vovoma/Windshaft",
     "license": "BSD-3-Clause",
     "repository": {
         "type": "git",
-        "url": "git://github.com/CartoDB/Windshaft.git"
+        "url": "git://github.com/vovoma/Windshaft.git"
     },
     "author": "Vizzuality <contact@vizzuality.com> (http://vizzuality.com)",
     "contributors": [
